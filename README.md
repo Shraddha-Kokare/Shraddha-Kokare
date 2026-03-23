@@ -53,7 +53,7 @@
 ## 🚀 Projects
 
 ### 🔹 SignalPulse
-Real-time observability and monitoring system for tracking logs, metrics, and system performance  
+Advanced system for monitoring and analyzing application/system behavior with focus on performance, reliability, and insights
 
 ### 🔹 Student Learning Pathway Generator
 AI-based system that generates personalized learning paths for students based on skills and goals  
