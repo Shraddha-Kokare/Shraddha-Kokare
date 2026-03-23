@@ -13,30 +13,47 @@
 - 🛠️ Love building **real-world problem-solving systems**
 - 🏆 Hackathon enthusiast (2nd place at Startathon 🎉)
 - 👩‍💻 Web Team Member at **AWS Cloud Club**
-- 📈 Improving my **DSA skills daily**
+- 📈 Improving my **DSA + Communication skills daily**
 
 ---
 
 ## 💻 Tech Stack
 
 ### 🚀 Languages
-- Java, C++, C, JavaScript, Python
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🌐 Web Development
-- React.js, Node.js, Express.js, Spring Boot
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### 🗄️ Databases
-- MongoDB, MySQL, H2
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![H2](https://img.shields.io/badge/H2-003B57?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### 🤖 AI/ML
-- Scikit-learn, Pandas, NumPy
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### ⚙️ Tools
-- Git, GitHub, Postman, VS Code
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 🚀 Projects
+
+### 🔹 SignalPulse
+Real-time observability and monitoring system for tracking logs, metrics, and system performance  
 
 ### 🔹 Student Learning Pathway Generator
 AI-based system that generates personalized learning paths for students based on skills and goals  
@@ -51,10 +68,6 @@ Automated system to detect and resolve mismatches in financial transactions ensu
 AI-based sensitive document classification using metadata  
 **Tech:** Flask, React, Machine Learning  
 
-### 🔹 MessFinder
-Find nearby mess with reviews & AI ranking  
-**Tech:** MERN Stack  
-
 ---
 
 ## 🏆 Achievements
@@ -65,7 +78,7 @@ Find nearby mess with reviews & AI ranking
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: [https://www.linkedin.com/in/shraddha-kokare-1b38aa254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+- 💼 LinkedIn: https://www.linkedin.com/in/shraddha-kokare-1b38aa254/
 - 📧 Email: kokareshraddha5@gmail.com
 
 ---
