@@ -11,7 +11,7 @@
 - 🔭 Currently working on **AI-powered applications & MERN projects**
 - 🧠 Exploring **Machine Learning & Data Science**
 - 🛠️ Love building **real-world problem-solving systems**
-- 🏆 Hackathon enthusiast (2nd place at Startathon 🎉)
+- 🏆 Hackathon enthusiast
 - 👩‍💻 Web Team Member at **AWS Cloud Club**
 - 📈 Improving my **DSA skills daily**
 
