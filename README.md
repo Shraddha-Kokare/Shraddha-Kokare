@@ -13,7 +13,7 @@
 - 🛠️ Love building **real-world problem-solving systems**
 - 🏆 Hackathon enthusiast (2nd place at Startathon 🎉)
 - 👩‍💻 Web Team Member at **AWS Cloud Club**
-- 📈 Improving my **DSA + Communication skills daily**
+- 📈 Improving my **DSA skills daily**
 
 ---
 
